@@ -1,4 +1,4 @@
-#  Healthcare Compliance & Monitoring Pipeline
+#  Real-Time-Healthcare-Monitoring-Analytics-Pipeline
 
 **Real-time healthcare analytics system with Power BI dashboards powered by Kafka, Spark Streaming, Delta Lake, and Airflow**
 
