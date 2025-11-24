@@ -1,0 +1,4 @@
+patient_id,event_type,heart_rate,systolic,diastolic,temperature,timestamp
+3428,vitals,95,127,80,100.3,2025-11-24 21:10:17
+5526,lab_result,78,138,79,97.2,2025-11-24 21:10:18
+7992,medication,89,114,71,99.3,2025-11-24 21:10:12
